@@ -19,8 +19,7 @@ Everytime(KR Univ-App) Clone Programming
 
 <!-- ABOUT THE PROJECT -->
 ## EveryTime Project is..
-
-[![Product Name Screen Shot][product-screenshot]](https://github.com/WooGeun-Nam/EveryTimeClone)
+<img src="images/screenshot.png" alt="Logo">
 
 Java를 활용한 Design Pattern에 대한 학습을 위해 제작한 프로젝트.
 한국의 대학생이 가장 많이 사용하는 어플리케이션인 Everytime을 사용자의 입장에서
